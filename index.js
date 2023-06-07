@@ -22,7 +22,7 @@ userForm.addEventListener('submit',async (e)=>{
         .then(data=>{
             localStorage.setItem('user_name',userName);
             user_name.value='';
-         window.location.href='/user.html';
+         window.location.href='./user.html';
         alertMsg.classList.add('d-node');
         })
     }
