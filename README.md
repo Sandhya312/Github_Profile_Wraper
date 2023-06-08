@@ -19,7 +19,7 @@ A simple web application that displays your GitHub profile information and repos
 
 ## Demo
 
-[Link to Demo](https://sandhya312.github.io/Github_Profile_Wrapper/)
+[Link to Demo](https://sandhya312.github.io/Github_Profile_Wraper/)
 
 ## Installation
 
